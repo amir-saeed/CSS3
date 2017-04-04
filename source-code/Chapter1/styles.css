@@ -1,0 +1,9 @@
+button {
+    color: greenyellow;
+    transition: color 200ms ease-in 50ms;
+};
+
+button:hover {
+    color: #000;
+    transition: color 200ms ease-out 50ms;
+}

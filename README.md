@@ -5,6 +5,10 @@ Resources, material about CSS3
 
 ### Animation
 
+An animation lets an element gradually change from one style to another.To use CSS3 animation, you must first specify some keyframes for the animation.
+
+Keyframes hold what styles the element will have at certain times.
+
 ### Transformation
 
 ### Transitions
